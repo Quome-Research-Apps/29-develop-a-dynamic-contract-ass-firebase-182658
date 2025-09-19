@@ -1,0 +1,1 @@
+{"name": "29-develop-a-dynamic-contract-ass-firebase-182658", "spec": {"port": 8000, "containers": [{"image": "", "name": "29-develop-a-dynamic-contract-ass-firebase-182658", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
